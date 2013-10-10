@@ -1,4 +1,4 @@
-Simple Ruby Extension
+Rails Extension
 =====================
 
 A simple Brackets extension that adds:
